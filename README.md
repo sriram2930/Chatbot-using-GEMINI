@@ -1,2 +1,2 @@
-# Chatbot-using-GEMINI
-This is chatbot created using google GEMINI's API , interfaced with streamlit
+# gemini-pro-streamlit-chatbot
+This repository is about building a chatbot using Google's Gemini-Pro with streamlit.
